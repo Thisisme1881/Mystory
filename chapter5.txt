@@ -1,0 +1,1 @@
+I opened chapter 5 in a new branch. I'm writing about coding and coffee
